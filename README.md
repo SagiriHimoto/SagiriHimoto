@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**SagiriHimoto/SagiriHimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><div align="center"><a href="https://www.youtube.com/channel/UCYg_Xk6aHG_FKaYiRi0wmEg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYg_Xk6aHG_FKaYiRi0wmEg?label=%20&style=for-the-badge"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=SagiriHimoto"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-gray?style=for-the-badge&logo=twitter&logoColor=white"/><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SagiriHimoto?color=1DA1F2&label=%20&style=for-the-badge"></a>
+<a href="https://github.com/SagiriHimoto/"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github&logoColor=white"/><img alt="GitHub followers" src="https://img.shields.io/github/followers/SagiriHimoto?color=lightgray&label=%20&style=for-the-badge"></a></div>
+<div align="center"><a href="https://chrome.google.com/webstore/detail/pony-importer/gldfiobnglilbkgbbahifeikpngcjmme"><img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/rating/gldfiobnglilbkgbbahifeikpngcjmme?color=red&label=Pony%20importer%20rating&logo=google&logoColor=white&style=for-the-badge"></a></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SagiriHimoto&repo=sagirihimoto.github.io"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SagiriHimoto&repo=Pony-UI-Plugin"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SagiriHimoto&show_icons=true"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SagiriHimoto"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagirihimoto"/></div>
+<!-- <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
