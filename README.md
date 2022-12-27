@@ -4,6 +4,5 @@
 <div align="center"><a href="https://chrome.google.com/webstore/detail/pony-importer/gldfiobnglilbkgbbahifeikpngcjmme"><img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/rating/gldfiobnglilbkgbbahifeikpngcjmme?color=red&label=Pony%20importer&logo=google&logoColor=white&style=for-the-badge"></a></div>
 <div align="center"><a href="https://github.com/SagiriHimoto/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SagiriHimoto&repo=sagirihimoto.github.io"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=SagiriHimoto&repo=Pony-UI-Plugin"/></a></div>
 <div align="center"><a href="https://github.com/SagiriHimoto/"><img src="https://github-readme-stats.vercel.app/api?username=SagiriHimoto&show_icons=true"/></a></div>
-<div align="center"><a href="https://github.com/SagiriHimoto/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SagiriHimoto"/></a></div>
 <div align="center"><a href="https://github.com/SagiriHimoto/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagirihimoto"/></a></div>
 <!-- <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
