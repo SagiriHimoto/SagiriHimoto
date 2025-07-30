@@ -1,3 +1,2 @@
-<div align="center"><div align="center"><a href="https://www.youtube.com/channel/UCYg_Xk6aHG_FKaYiRi0wmEg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-youtube-gray?style=for-the-badge&logo=youtube&logoColor=white"/><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYg_Xk6aHG_FKaYiRi0wmEg?label=%20&style=for-the-badge"/></a>
-<a href="https://twitter.com/intent/follow?screen_name=SagiriHimoto"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-gray?style=for-the-badge&logo=twitter&logoColor=white"/><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SagiriHimoto?color=1DA1F2&label=%20&style=for-the-badge"></a>
+<div align="center"><div align="center">
 <div align="center"><a href="https://github.com/SagiriHimoto/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagirihimoto"/></a></div>
